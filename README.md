@@ -1,5 +1,5 @@
 # c-tasks
-Small tasks done in bash in C
+Small tasks done in bash and C
 
 
 **Task #1**\
