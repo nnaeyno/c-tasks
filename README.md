@@ -19,10 +19,10 @@ gcc -o read read.c
 **Task #3**\
 *running:*
 ```shell
-gcc -o execute_program execute_program.c
-./execute_program prog1 prog1 prog3 file
+gcc -o execute_programs execute_programs.c
+./execute_programs prog1 prog1 prog3 file
 ```
 *for example*
 ```shell
-./execute_program ls pwd cat test.txt
+./execute_programs ls pwd cat test.txt
 ```
