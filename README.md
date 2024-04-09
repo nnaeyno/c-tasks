@@ -6,7 +6,7 @@ Small tasks done in bash and C
 *running:*
 ```shell
 chmod +x rename.sh
-rename.sh
+./rename.sh
 ```
 
 **Task #2**\
