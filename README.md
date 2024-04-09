@@ -13,5 +13,5 @@ chmod +x rename.sh
 *running:*
 ```shell
 gcc -o read read.c
-read
+./read
 ```
